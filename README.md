@@ -868,5 +868,3 @@ In the end, *in vitro* studies using murine CDX model for human mantle cell lymp
 Uses relative free energy perturbation from Schrödinger (FEP+) combined with active learning. 
 
 ------------------------------------------------------------------------------------------------------------
-
-
